@@ -3,6 +3,8 @@
 	 * main - Entry point
 	 *
 	 * Return: Always 0 (Success)
+	 *
+	 * Description: Main returns string
 	 */
 
 int main(void)
