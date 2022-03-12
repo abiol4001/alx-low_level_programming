@@ -1,14 +1,15 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return - Always 0 (Success)
+ * return - Always 0 (Success)
+ * description - using main to get size
  */
 
 int main(void)
 {
 	int i;
-	long int 12;
-	long long int 13;
+	long int i2;
+	long long int i3;
 	char c;
 	float f;
 
