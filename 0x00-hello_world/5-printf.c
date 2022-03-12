@@ -4,7 +4,7 @@
 	 *
 	 * Return: Always 0 (Success)
 	 *
-	 * Description: Main returns string
+	 * Description: main returns string
 	 */
 
 int main(void)
