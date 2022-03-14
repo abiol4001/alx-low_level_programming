@@ -1,10 +1,10 @@
 #include <stdio.h>
 	/**
 	 * Main - Entry point
+	 * Description - main returns string with proper grammar, but the outcome is a piece of art
 	 *
 	 * Return: Always 0 (Success)
 	 *
-	 * Description: main returns string
 	 */
 
 int main(void)
