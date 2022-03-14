@@ -1,7 +1,7 @@
 #include <stdio.h>
 	/**
-	 * main - Entry point
-	 * Description: main prints string with proper grammar, but the
+	 * main - prints the phrase
+	 * Description: main prints the phrase with proper grammar, but the
 	 * outcome is a piece of art,
 	 *
 	 * Return: Always 0 (Success)
