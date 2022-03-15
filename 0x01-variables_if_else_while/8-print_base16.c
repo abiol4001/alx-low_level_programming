@@ -3,22 +3,22 @@
 /**
  * main - print all the number of base 16
  * followed by new line
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
 	int i;
+	char ch;
 
-	for (i = 0; i < 16; i++)
+	for (i = 48; i < 58; i++)
 	{
-		if (i < 10)
-		{
-			putchar(i + '0');
-		}
-		else
-			putchar('i');
+		putchar(i);
+	}
+	for (ch = 'a'; ch <= 'f'; ch++)
+	{
+		putchar(ch);
 	}
 	putchar('\n');
 	return (0);
 }
-
