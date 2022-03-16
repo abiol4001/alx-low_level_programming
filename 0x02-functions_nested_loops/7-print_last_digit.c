@@ -5,6 +5,7 @@
  *
  * @n: the input numbers.
  *
+ * Return: Value of the last digit.
  */
 
 int print_last_digit(int n)
