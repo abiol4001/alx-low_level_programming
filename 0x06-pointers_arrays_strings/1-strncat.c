@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * *_sirncat - concatenates two strings
+ * *_strncat - concatenates two strings
  * @dest: pointer to a char param
  * @src: pointer to a char param
- * @int: int parameter
+ * @n: int parameter
  * Return: *dest
  */
 
