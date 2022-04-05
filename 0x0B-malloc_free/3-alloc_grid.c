@@ -6,7 +6,7 @@
  * Description: each element of the grid should be initialized to 0
  * @width: int size width
  * @height: int size height
- * Retrun: pointer to new grid
+ * Return: pointer to new grid
  */
 
 int **alloc_grid(int width, int height)
@@ -29,7 +29,7 @@ int **alloc_grid(int width, int height)
 			for (i--; i >= 0; i--)
 				free(grid[i]);
 			free(grid);
-			return(NULL);
+			return (NULL);
 		}
 		for (j = 0; j < width; j++)
 			grid[i][j] = 0;
